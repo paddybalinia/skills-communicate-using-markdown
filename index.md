@@ -12,3 +12,9 @@
 
 
 ![imagen de Github](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/600px-GitHub_Invertocat_Logo.svg.png)
+
+
+```
+$ npm install
+utiliza para instalar paquetes de Node.js en un proyecto
+```
